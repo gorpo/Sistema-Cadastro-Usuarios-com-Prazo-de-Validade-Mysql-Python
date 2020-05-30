@@ -12,7 +12,7 @@
 - Python
 - XAMPP
 # Download XAMPP:
-<a href='https://www.apachefriends.org/pt_br/index.html>Clique aqui para baixar o XAMPP</a>
+<a href="https://www.apachefriends.org/pt_br/index.html">Clique aqui para baixar o XAMPP</a>
 
 
 
