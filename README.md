@@ -9,31 +9,15 @@
 <img src="https://raw.githubusercontent.com/gorpo/Sistema-Cadastro-Usuarios-com-Prazo-de-Validade-Mysql-Python/master/banner.jpg" width="100%"></img>
 
 # Requisitos:
-- Python3.7 (não testado em outros)
--
+- Python
+- XAMPP
+# Download XAMPP:
+<a href='https://www.apachefriends.org/pt_br/index.html>Clique aqui para baixar o XAMPP</a>
 
-# Instalações previas das libs que cumprem os requisitos para windows10:<br>
---> Tensorflow:
-<code> pip install --upgrade tensorflow</code><br>
--->Keras: 
-<code>pip install keras</code><br>
---> Numpy:
-<code>pip install numpy scipy</code><br>
---> Scikit-learn:
-<code>pip install scikit-learn</code><br>
---> Pillow:
-<code>pip install pillow</code><br>
---> h5py:
-<code>pip install h5py</code><br>
---> Matploitlib:
-<code>pip install matplotlib</code><br>
 
 
 # Executando o sistema:
-<p>Após concluido o download siga este tutorial: </p>
-
-
-# Assista o tutorial:  
+<p>Após concluido o download do XAMPP e deste repositório siga o tutorial: </p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=w4HyXLQU76I" target="_blank"><img src="http://img.youtube.com/vi/w4HyXLQU76I/0.jpg" 
 alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="100%"  border="0" />Sistema Cadastro Usuarios com Prazo de Validade Mysql Python</a>
  
