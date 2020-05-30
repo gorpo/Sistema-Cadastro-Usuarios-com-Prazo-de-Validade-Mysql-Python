@@ -17,7 +17,7 @@
 
 
 # Executando o sistema:
-<p>Após concluido o download do XAMPP e deste repositório siga o tutorial: </p>
+<p>Após concluido o download do XAMPP e deste repositório assista o tutorial: </p>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=w4HyXLQU76I" target="_blank"><img src="http://img.youtube.com/vi/w4HyXLQU76I/0.jpg" 
 alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="100%"  border="0" />Sistema Cadastro Usuarios com Prazo de Validade Mysql Python</a>
  
